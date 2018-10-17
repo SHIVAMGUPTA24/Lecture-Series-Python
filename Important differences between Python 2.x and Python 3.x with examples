@@ -5,3 +5,11 @@ Unicode
 xrange
 Error Handling
 _future_ module
+input()
+file()
+apply()
+reduce()
+exec()
+reload()
+intern()
+coerce()
